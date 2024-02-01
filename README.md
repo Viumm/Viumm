@@ -1,16 +1,10 @@
-### Hi there 👋
-
-<!--
-**Viumm/Viumm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<body>
+  <center>
+<h1 align="center">💖 🆆🅴🅻🅲🅾🅼🅴 🆃🅾 🅼🆈 🅿🆁🅾🅵🅸🅻🅴 💖</h1>
+<br>
+<div align="center">
+  <a href="#" >
+   <img src="https://lanyard.kyrie25.me/api/305751795844775936?waveColor=716D72&waveSpotifyColor=E4E9ED&gradient=716D72-E4E9ED&imgStyle=square"  />
+  </a>
+    <br>
+</body>
